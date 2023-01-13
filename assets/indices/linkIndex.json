@@ -8,24 +8,24 @@
           "text": "speculation-related notes"
         }
       ],
-      "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of": [
+      "/Doctrine/Things-Were-Sure-Of": [
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Doctrine",
           "text": "Doctrine"
         },
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/creed",
           "text": "creed"
         },
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Joseph-Smith",
           "text": "Joseph Smith"
         },
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Faith-Theory",
           "text": "Faith Theory"
         }
@@ -34,28 +34,28 @@
     "backlinks": {
       "/Doctrine": [
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Doctrine",
           "text": "Doctrine"
         }
       ],
       "/Faith-Theory": [
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Faith-Theory",
           "text": "Faith Theory"
         }
       ],
       "/Joseph-Smith": [
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/Joseph-Smith",
           "text": "Joseph Smith"
         }
       ],
       "/creed": [
         {
-          "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+          "source": "/Doctrine/Things-Were-Sure-Of",
           "target": "/creed",
           "text": "creed"
         }
@@ -71,22 +71,22 @@
   },
   "links": [
     {
-      "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+      "source": "/Doctrine/Things-Were-Sure-Of",
       "target": "/Doctrine",
       "text": "Doctrine"
     },
     {
-      "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+      "source": "/Doctrine/Things-Were-Sure-Of",
       "target": "/creed",
       "text": "creed"
     },
     {
-      "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+      "source": "/Doctrine/Things-Were-Sure-Of",
       "target": "/Joseph-Smith",
       "text": "Joseph Smith"
     },
     {
-      "source": "/Learning-the-Gospel-in-Public/Things-Were-Sure-Of",
+      "source": "/Doctrine/Things-Were-Sure-Of",
       "target": "/Faith-Theory",
       "text": "Faith Theory"
     },
