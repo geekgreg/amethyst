@@ -1,5 +1,5 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-baseURL: https://geekgreg.github.io/
+baseURL: https://geekgreg.github.io/amethyst/
 
 # Book configuration
 disablePathToLower: true
