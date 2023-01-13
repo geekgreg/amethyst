@@ -1,33 +1,29 @@
 ---
-title: 💜 Welcome to Amethyst!
+title: Learning the Gospel in Public
 enableToc: false
 ---
 
-## What is Amethyst?
-Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
+## What is This?
+"Learning the Gospel in Public" is my own way to help focus my studies by sharing what I learn and how it all connects. A sort of public notebook in the form of a "digital garden." 
 
-The purpose of Amethyst is to provide a space to publish more structured notes created in Obsidian that may not fit in the [digital garden](https://joelhooks.com/digital-garden/) archetype that is well-supported by existing projects.
+## Likely Starting Points
+> 📚 Article 1:
 
-Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
+> ✏️ Article 2:
 
-## Get Started
-> 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
+> 🔗 Article 3: 
 
-> ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
+> 👀 Article 4: 
 
-> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](setup/obsidian.md)
+> 🌍 Article 5: 
 
-> 👀 Step 4: [Preview Changes](setup/preview%20changes.md)
+> 🎨 Article 6: 
 
-> 🌍 Step 5: [Hosting Amethyst online!](setup/hosting.md)
 
-> 🎨 Step 6:  [Customizing Amethyst](setup/config.md)
 
-Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
-
-Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
+Here's a list of all [speculation-related notes](/tags/speculation), which are also accessible via the sidebar menu.
 
 ### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](setup/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/64bitpandas/amethyst/issues)
-- 👀 [Contact me](https://bencuan.me/contact)
+- 🚧 [FAQ]
+- 🐛 [Submit an Issue]
+- 👀 [Contact me]
