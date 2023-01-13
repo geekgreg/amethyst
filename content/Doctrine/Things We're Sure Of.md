@@ -11,6 +11,9 @@ With that in mind, what are some teachings about which we feel at least somewhat
 * Revelation is real
 * We have agency
 * The scriptures can be a conduit for revelation
+* The scriptures can help us navigate our lives
+* The scriptures point us to Christ
+* Life has pupose and meaning
 * The Creation
 * The Fall
 * The Atonement
@@ -18,7 +21,8 @@ With that in mind, what are some teachings about which we feel at least somewhat
 * The spirit world
 * The Resurrection
 * Judgement
-* God gives commandments
+* God requires sacrifice from us
+* God gives commandments 
 * We can speak to God through prayer
 * We worship God the Father in the name of Jesus Christ
 * Jesus Christ is our Savior from Sin and Death
@@ -27,7 +31,7 @@ With that in mind, what are some teachings about which we feel at least somewhat
 
 ## How do these "Core Doctrines" help us?
 
-These things might serve as a part of our [[creed]], even though [[Joseph Smith]] said we don't have any creeds. 😕 
+These things might serve as a part of our "Creed of the Restored Gospel", even though [[Joseph Smith]] said we don't have any creeds. 😕 
 
 With these and similar items of certainty we can begin to build a framework for our faith - a sort of [[Faith Theory]] which helps us find and evaluate truth in the doctrines of the Restored Gospel.  
 

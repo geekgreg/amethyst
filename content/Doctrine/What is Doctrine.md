@@ -4,25 +4,30 @@ Thinking he had some genuine curiosity and hoping that perhaps he was opening up
 
 ![](http://latterdayhope.com/wp-content/uploads/2019/08/doctrine-chat.jpg)
 
-“You see, sir, considering how healthy green tea is, I’m sure the Word of Wisdom must be a policy not a DOCTRINE.”
+> “You see, sir, considering how healthy green tea is, I’m sure the Word of Wisdom must be a policy not a DOCTRINE.”
 
-I quickly discovered, of course, that there’s no simple answer to that question, since any time you plant your “doctrine flag” you are sure to be able to discover a contradiction from some authoritative source.
+I quickly discovered, of course, that there’s no simple answer to that question, since any time you plant your “doctrine flag” you are sure to be able to discover a contradiction or exception from some authoritative source.
 
-Only years later did I realize that his intent was not to have me share my thoughts with him to help him out, but to inspire doubt in me. He wanted me to feel uncertain about my faith, and the simple question “is that doctrine or policy” is one commonly used tactic antagonists use to try and make us feel unbalanced.
+Only years later did I realize that his intent was not to have me share my thoughts with him to help him out, but to inspire doubt in me. He wanted me to feel uncertain about my faith.
 
-Like all efforts to attack our faith, the “what is doctrine?” approach relies on some assumptions. These assumptions are, unfortunately, totally common to our religious culture. That makes this method an easy attack on thoughtful believers, and a satisfying one for those who have already left since they have already fully accepted the absurdity and self-contradictions of “Mormon Doctrine.”
+> [!info]
+> The simple question “is that doctrine or policy” is one commonly used tactic antagonists use to try and make us feel unbalanced.
+
+Like all efforts to attack our faith, the “what is doctrine?” approach relies on some assumptions. These assumptions are, unfortunately, totally common to our religious culture. 
 
 ## WHAT IS DOCTRINE?
 
-Put at its most basic, the word “doctrine” means “a belief or set of beliefs held and taught by a church,” and synonyms are “creed, dogma, belief, teaching.”
+**The word “doctrine” means “a belief or set of beliefs held and taught by a church,”** and synonyms are “creed, dogma, belief, teaching.”
 
 But in our faith, and perhaps in our modern culture, the word “doctrine” has somehow picked up a much more ironclad sort of feel to it. Indeed, countless articles have been written on subjects like “how to tell doctrine from policy” or “how do we know what is doctrine?” The unspoken implication is “Real Doctrine must be absolutely true, and always obeyed.”
 
 **We are wrong when we think this way.**
 
-![There is no Mormon Doctrine](http://latterdayhope.com/wp-content/uploads/2019/08/young-women-studying-1552048-mobile-199x300.jpg)When we try to treat “doctrines” as anything more than a teaching, we are falling into the trap of creedalism – insistence upon traditional statements of belief. As Latter-day Saints, this should repel us since the very founding of our faith was a rejection of creedalism. [https://rsc.byu.edu/archived/prelude-restoration-apostasy-restored-church/all-their-creeds-were-abomination-brief-look](https://rsc.byu.edu/archived/prelude-restoration-apostasy-restored-church/all-their-creeds-were-abomination-brief-look)
+## Creedalism
 
-Treating any doctrine as a permanent “creed” instead of simply a current “teaching” means any contradiction to our creed will force us into doubling down on our mistakes or rejecting the system by which we received the creed. This kind of thinking only makes us more dogmatic and defensive and opens us up to further attack.
+When we try to treat “doctrines” as anything more than a teaching, we are falling into the trap of creedalism – insistence upon traditional statements of belief. As Latter-day Saints, this should repel us since the very founding of our faith was a rejection of creedalism. [https://rsc.byu.edu/archived/prelude-restoration-apostasy-restored-church/all-their-creeds-were-abomination-brief-look](https://rsc.byu.edu/archived/prelude-restoration-apostasy-restored-church/all-their-creeds-were-abomination-brief-look)
+
+Treating any doctrine as a permanent, unchanging “creed” instead of simply a current “teaching” means any contradiction to our creed will force us into doubling down on our mistakes or rejecting the system by which we received the creed. This kind of thinking only makes us more dogmatic and defensive and opens us up to further attack.
 
 ## MORMONISM IS TRUTH
 
