@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23ee0f56ab9e02f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti-Doctrines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things We're Sure Of.md",
+                "file": "Anti-Doctrines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things We're Sure Of.md",
+                "file": "Anti-Doctrines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things We're Sure Of.md"
+                "file": "Anti-Doctrines.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e08ee026968b2044",
+  "active": "23ee0f56ab9e02f8",
   "lastOpenFiles": [
     "What is Doctrine.md",
+    "Anti-Doctrines.md",
     "Things We're Sure Of.md"
   ]
 }
