@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti-Doctrines.md",
+                "file": "Things We're Sure Of.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anti-Doctrines.md",
+                "file": "Things We're Sure Of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anti-Doctrines.md",
+                "file": "Things We're Sure Of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anti-Doctrines.md"
+                "file": "Things We're Sure Of.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "23ee0f56ab9e02f8",
   "lastOpenFiles": [
+    "Anti-Doctrines.md",
     "Things We're Sure Of.md",
-    "What is Doctrine.md",
-    "Anti-Doctrines.md"
+    "What is Doctrine.md"
   ]
 }
