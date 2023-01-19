@@ -1,4 +1,4 @@
-When it comes to the restored gospel there are a lot of things that we call [[What is Doctrine | Doctrine]] but not everybody agrees on what is doctrine and what isn't. That means there's a bit of uncertainty or ambiguity, even on subjects that many of us feel are settled.
+When it comes to the restored gospel there are a lot of things that we call [[Doctrine | Doctrine]] but not everybody agrees on what is doctrine and what isn't. That means there's a bit of uncertainty or ambiguity, even on subjects that many of us feel are settled.
 
 With that in mind, what are some teachings about which we feel at least somewhat certain? What are some things that can serve as a foundation for subjects of faith as well as for logical questioning and exploration of the restored gospel? 
 
