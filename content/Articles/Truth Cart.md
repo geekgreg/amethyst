@@ -10,7 +10,7 @@ many ex-Mormons and anti-Mormons can’t resist opportunities to tell believers 
 
 They insist you must believe EVERYTHING ever said or speculated by any leader, ever (and especially the most negative interpretation of those things) or you believe NOTHING.
 
-In essence, these people want you to believe that Mormonism must not only be everything that is true or thought to be true by yourself, but that you must load your cart high with everything ever said by an authority, throw a net over everything and bind it tightly down – allowing none of it to escape. You must place [[Doctrine | everything ever taught]] into that cart from the obscure history to the forgotten speculation of leaders past; not just the things you personally know to be true. This hurts you in two terrible ways: it makes you easier to “tip” and it makes you stop moving forward as you focus on loading your cart ever higher.
+In essence, these people want you to believe that Mormonism must not only be everything that is true or thought to be true by yourself, but that you must load your cart high with everything ever said by an authority, throw a net over everything and bind it tightly down – allowing none of it to escape. You must place [[What is Doctrine | everything ever taught]] into that cart from the obscure history to the forgotten speculation of leaders past; not just the things you personally know to be true. This hurts you in two terrible ways: it makes you easier to “tip” and it makes you stop moving forward as you focus on loading your cart ever higher.
 
 ## What do we do with our wobbly Truth Carts?
 

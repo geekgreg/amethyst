@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Truth Cart.md",
+                "file": "Doctrine/God loves us.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Truth Cart.md",
+                "file": "Doctrine/God loves us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Truth Cart.md",
+                "file": "Doctrine/God loves us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Truth Cart.md"
+                "file": "Doctrine/God loves us.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   "active": "9e925ca8cca2b830",
   "lastOpenFiles": [
     "Articles/Things We're Sure Of.md",
+    "Doctrine/God loves us.md",
+    "_index.md",
+    "Articles/What is Doctrine.md",
     "Articles/Truth Cart.md",
-    "Articles/Doctrine.md",
     "Articles/Faith Theory.md",
-    "_index.md"
+    "Articles/Anti-Doctrines.md"
   ]
 }

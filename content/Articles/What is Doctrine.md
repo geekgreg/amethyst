@@ -25,7 +25,7 @@ For the purposes of this project we need to define a few common terms. One of th
 
 ## Why define doctrine this way?
 
-Most members seem to think of a doctrine as something unchanging, eternal, and true. However nowhere in the church do we have any kind of guide to our doctrines. What one person insists is doctrine is called speculation by another. Where one member sees a temporary church policy, another sees permanance.
+Most members seem to think of a doctrine as something unchanging, eternal, and true. However nowhere in the church do we have any kind of guide to our doctrines. What one person insists is doctrine is called speculation by another. Where one member sees a temporary church policy, another sees permanence.
 
 Therefore, if we're going to discuss our doctrines in an impartial way, we have to treat  them all impartially. This is the best way to do that without adding emotional or psychological baggage to our search for truth.
 
@@ -33,7 +33,7 @@ The hope is that we come out of this with the ability to accept all teachings eq
 
 Instead we learn a doctrine, recognize it for what it is, and rather than ask "is this doctrine?? is this true??" ask "how do I need to live?"
 
-## The Imperminance of Doctrine
+## The Impermanence of Doctrine
 
 Elder Anderson of the Quorum of the Twelve Apostles gave wonderful guidance on one of the ways we should filter through our teachings to figure out what teachings we should accept as Church teachings, instead of opinions, speculation, or expired doctrines:
 

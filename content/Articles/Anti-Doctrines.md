@@ -12,7 +12,7 @@ These anti-doctrines are often presented as "What your religion REALLY teaches" 
 
 ## How to recognize Anti-Doctrine
 
-Because [[Doctrine | we define doctrine as a teaching]], anything taught by church members in any positions of authority could be called "doctrine." However, Elder Neil L Anderson guides us with a better standard for finding out what "the church" teaches:
+Because [[What is Doctrine | we define doctrine as a teaching]], anything taught by church members in any positions of authority could be called "doctrine." However, Elder Neil L Anderson guides us with a better standard for finding out what "the church" teaches:
 
 > There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many.
 
